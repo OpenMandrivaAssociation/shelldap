@@ -40,3 +40,18 @@ rm -rf %{buildroot}
 %{_bindir}/shelldap
 %{_mandir}/man1/shelldap.1*
 
+
+
+%changelog
+* Fri Sep 16 2011 Stéphane Téletchéa <steletch@mandriva.org> 0.5-1mdv2012.0
++ Revision: 699964
+- Update to 0.5
+
+* Wed Mar 16 2011 Stéphane Téletchéa <steletch@mandriva.org> 0.4-1
++ Revision: 645424
+- update to new version 0.4
+
+* Thu Jan 06 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.2-1mdv2011.0
++ Revision: 629052
+- import shelldap
+
