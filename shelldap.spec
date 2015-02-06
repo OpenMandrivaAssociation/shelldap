@@ -1,6 +1,6 @@
 Name:		shelldap
 Version:	0.5
-Release:	%mkrel 1
+Release:	2
 Summary:	LDAP shell
 License:	BSD
 Group:		Networking/Other
