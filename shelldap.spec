@@ -1,6 +1,6 @@
 Name:		shelldap
-Version:	0.5
-Release:	2
+Version:	1.5.0
+Release:	1
 Summary:	LDAP shell
 License:	BSD
 Group:		Networking/Other
