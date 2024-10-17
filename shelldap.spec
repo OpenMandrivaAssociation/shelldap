@@ -4,7 +4,7 @@ Release:	1
 Summary:	LDAP shell
 License:	BSD
 Group:		Networking/Other
-URL:		http://projects.martini.nu/shelldap
+URL:		https://projects.martini.nu/shelldap
 Source:     shelldap
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}
